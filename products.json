@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name":"NIKE SHOES",
+        "price": 200,
+        "image": "product-1.png"
+    },
+    {
+        "id": 2,
+        "name":"NIKE SHOES",
+        "price": 250,
+        "image": "product-2.png"
+    },
+    {
+        "id": 3,
+        "name":"NIKE SHOES",
+        "price": 290,
+        "image": "product-3.png"
+    },
+    {
+        "id": 4,
+        "name":"NIKE SHOES",
+        "price": 260,
+        "image": "product-4.png"
+    },
+    {
+        "id": 5,
+        "name":"NIKE SHOES",
+        "price": 200,
+        "image": "product-5.png"
+    },
+    {
+        "id": 6,
+        "name":"NIKE SHOES",
+        "price": 300,
+        "image": "product-6.png"
+    },
+    {
+        "id": 7,
+        "name":"NIKE SHOES",
+        "price": 280,
+        "image": "product-7.jpg"
+    },
+    {
+        "id": 8,
+        "name":"NIKE SHOES",
+        "price": 190,
+        "image": "product-8.jpg"
+    }
+]
